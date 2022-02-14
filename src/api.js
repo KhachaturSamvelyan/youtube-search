@@ -1,6 +1,3 @@
-import axios from 'axios'
-
-
 export const getApiResource = async (url) => {
     try {
       const res = await fetch(url);
