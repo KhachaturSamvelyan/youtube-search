@@ -1,0 +1,16 @@
+.form__blok{
+    background: #FFFFFF;
+    border: 1px solid rgba(39, 39, 39, 0.1);
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 40px 88px 60px;
+    max-width: 510px;
+    margin: 0 auto;
+    text-align: center;
+}
+.form__blok img{
+    margin-bottom: 32px;
+}
+.form {
+    width: 334px;
+}
